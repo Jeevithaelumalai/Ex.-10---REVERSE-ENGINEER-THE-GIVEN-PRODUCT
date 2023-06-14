@@ -35,8 +35,9 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118708245/c42137eb-6d5a-481a-a47d-d14e869b3cc4)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
